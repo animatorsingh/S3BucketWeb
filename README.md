@@ -10,7 +10,7 @@
 
 
 
-Host a Website on Amazon S3
+# Host a Website on Amazon S3
 
 
 
@@ -24,7 +24,7 @@ Host a Website on Amazon S3
 
 
 
-Introducing Today's Project!
+## Introducing Today's Project!
 
 
 
@@ -50,7 +50,7 @@ This project took me approximately 20 mins
 
 
 
-How I Set Up an S3 Bucket
+## How I Set Up an S3 Bucket
 
 
 
@@ -68,11 +68,13 @@ The Region I picked for my S3 bucket was ap-soth-1 ... because i am from india t
 
 S3 bucket names are globally unique! This means...every bucket name on aws like aws it name shoudl be unique
 
+![image_alt](https://github.com/animatorsingh/S3BucketWeb/blob/da143bdf08a7f5993f5567c62d6b2182958a7ea9/Screenshot%202025-09-06%20144341.png)
+
 &nbsp;
 
 
 
-Upload Website Files to S3
+## Upload Website Files to S3
 
 
 
@@ -86,11 +88,14 @@ I uploaded two files to my S3 bucket - they were... index.html and all of the ot
 
 Both files are necessary for this project as...one is index.html and other files are images css
 
+![image_alt](https://github.com/animatorsingh/S3BucketWeb/blob/da143bdf08a7f5993f5567c62d6b2182958a7ea9/Screenshot%202025-09-07%20090350.png)
+
+
 &nbsp;
 
 
 
-Static Website Hosting on S3
+## Static Website Hosting on S3
 
 
 
@@ -108,16 +113,19 @@ To enable website hosting with my S3 bucket, go to properties and in last option
 
 An ACL is... access control list which kind of provide security and access control , so who can access objects in bucket and who can't
 
+![image_alt](https://github.com/animatorsingh/S3BucketWeb/blob/da143bdf08a7f5993f5567c62d6b2182958a7ea9/Screenshot%202025-09-07%20090631.png)
+
 &nbsp;
 
 
 
-Bucket Endpoints
+## Bucket Endpoints
 
 
 
 Once static website is enabled, S3 produces a bucket endpoint URL, which is...http://hostingwebsitetestabhi.s3-website.ap-south-1.amazonaws.com
 
+![image_alt](https://github.com/animatorsingh/S3BucketWeb/blob/da143bdf08a7f5993f5567c62d6b2182958a7ea9/high-step3.1.png)
 
 
 
@@ -128,7 +136,7 @@ When I first visited the bucket endpoint URL, I saw... The reason for this error
 
 
 
-Success!
+## Success!
 
 
 
