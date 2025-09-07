@@ -16,7 +16,7 @@ Host a Website on Amazon S3
 
 
 
-!\[Image](https://drive.google.com/file/d/1yUva-dZvWaHLbOxvUgpiP4lbRXQ845Zo/view?usp=sharing)
+![image_alt](https://github.com/animatorsingh/S3BucketWeb/blob/ba92c092ff96ffe7850b3e6ccedc1382d98ea956/static_webiste_hosting_documentation.webp)
 
 
 
